@@ -1,0 +1,8 @@
+{
+  "name": "Craftpath",
+  "description": "An interactive learning studio and career-building platform with guided skill roadmaps, hands-on practice sandboxes, an impact resume builder, and a structured interview simulator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
